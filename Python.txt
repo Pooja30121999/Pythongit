@@ -6,3 +6,7 @@ OOPS
 
 Inheritance
 Encapsulation
+
+Thank you :)
+
+Done with concepts
