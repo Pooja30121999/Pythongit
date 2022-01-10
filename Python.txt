@@ -3,3 +3,6 @@ Welcome to Programming
 Methods
 Varriables
 OOPS
+
+Inheritance
+Encapsulation
