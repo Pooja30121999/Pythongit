@@ -4,4 +4,15 @@ Methods
 Varriables
 OOPS
 
+
+Inheritance
+Encapsulation
+
+Thank you :)
+
+Done with concepts
+
+Done my changes
+
 close
+
